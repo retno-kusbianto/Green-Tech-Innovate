@@ -1,8 +1,8 @@
 # Green-Tech-Innovate
 ### Selamat datang di Green Tech Innovate
 ---
-##### Repository ini berisikan
+##### Repository ini berisikan :
 ##### 1. Green Home App
 ##### 2. Latihan Python
 
-### Terimakasih
+### Terimakasih telah berkunjung
