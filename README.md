@@ -1,5 +1,5 @@
 # Green-Tech-Innovate
-### SELAMAT DATANG DI GREEN TECH INNOVATE
+### Selamat datang di Green Tech Innovate
 ---
 ##### Repository ini berisikan
 ##### 1. Green Home App
